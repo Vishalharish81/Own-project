@@ -1,0 +1,26 @@
+.btn {
+    padding: .55rem 1.5rem .45rem;
+  }
+  .color-black{
+    background-color: black;
+  }
+  .color-fb{
+    background-color: #3b5998 ;
+  }
+  .tb{
+    background-color: #00acee;
+  }
+  .google{
+    background-color: #db4a39;
+  }
+  .insta{
+    background-color: black;
+  }
+  .linkedin{
+
+    background-color: #0072b1 ;
+  }
+  .github{
+
+    background-color: #4078c0;
+  }
